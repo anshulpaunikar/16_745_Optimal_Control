@@ -7,7 +7,8 @@ Basics of Julia
 ## HW1
 [HW1 Walkthrough Video](https://www.youtube.com/watch?v=V7i0tQlBLlE)
 1. Implement 3 explicit and 3 implicit integrators to simulate a double pendulum and examine the differences in accuracy. The goal of this problem is to start thinking about integrators as modular, and demonstrate the difference between explicit and implicit integrators.
-<img src="media/HW1_1a.png" width=400> <img src="media/HW1_1b.png" width=400>
+
+<img src="media/HW1_1a.png" width=350> <img src="media/HW1_1b.png" width=350>
 
 2. Write a well structured implementation of Newton's method with a backtracking linesearch. Use this function to solve a simple constrained optimization problem, then use it to solve for the motor torques and configuration for a quadruped to balance on one leg.
 <img src="media/HW1_2a.png"> <img src="media/HW1_2b.png">
