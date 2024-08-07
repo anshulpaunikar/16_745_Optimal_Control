@@ -10,16 +10,17 @@ Basics of Julia
 
    <img src="media/HW1_1a.png" width=375> <img src="media/HW1_1b.png" width=375>
 
-3. Write a well structured implementation of Newton's method with a backtracking linesearch. Use this function to solve a simple constrained optimization problem, then use it to solve for the motor torques and configuration for a quadruped to balance on one leg.
+2. Write a well structured implementation of Newton's method with a backtracking linesearch. Use this function to solve a simple constrained optimization problem, then use it to solve for the motor torques and configuration for a quadruped to balance on one leg.
+   
    <img src="media/HW1_2a.png" width=375> <img src="media/HW1_2b.png" width=375>
 
-5. Implement a Quadratic Program (QP) solver using the Augmented Lagrangian method. This solver will then be used in a clever way to simulate a falling brick as it makes contact with the floor.
+3. Implement a Quadratic Program (QP) solver using the Augmented Lagrangian method. This solver will then be used in a clever way to simulate a falling brick as it makes contact with the floor.
 <video src="https://github.com/user-attachments/assets/e6053154-8702-41d1-9893-b025c5951408" controls="controls" style="width: 50%;"></video>
 
 ## HW2
 1. Solve for the finite-horizon LQR controls as a convex optimization problem, then solve for the optimal feedback policy with the Ricatti recursion. Show that these are equivalent.
 
-   <img src="media/HW2_1a.png" width=375> <img src="media/HW2_1b.png" width= width=375>
+   <img src="media/HW2_1a.png" width=375> <img src="media/HW2_1b.png" width=375>
 
 2. Use TVLQR to track a cartpole swingup, as well as infinite horizon LQR to stabilize the cartpole in the inverted position.
 <video src="https://github.com/user-attachments/assets/fff6eb30-6d2b-4953-ad5f-d1431e0aaa0c" controls="controls" style="width: 50%;"></video>
