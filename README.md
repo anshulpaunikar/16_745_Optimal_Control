@@ -1,4 +1,4 @@
-Assignments for 16-745 - Optimal Control, taught by Zachary Manchester at Carnegie Melon University in Winter 2024, https://optimalcontrol.ri.cmu.edu/
+Assignments for 16-745 - Optimal Control and Reinforcement Learning course, taught by Zachary Manchester at Carnegie Melon University in Winter 2024, https://optimalcontrol.ri.cmu.edu/
 
 ## HW0
 [HW0 + Julia Video Walkthrough](https://www.youtube.com/watch?v=RetAn_9AOMg)
